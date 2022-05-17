@@ -13,3 +13,6 @@
 ### auto employee id generation
 ### Voiding payment Type
 ### Search Engine for both menu item, employees, sales, and the likes
+
+# Screenshots
+![image](image1.png)
