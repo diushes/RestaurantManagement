@@ -15,6 +15,9 @@
 ### Search Engine for both menu item, employees, sales, and the likes
 
 # Screenshots
+
+## MainPage
+![image](Screens/image2.png)
+## Second page
 ![image](Screens/image1.PNG)
 
-![image](Screens/image2.png)
